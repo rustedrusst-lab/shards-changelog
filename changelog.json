@@ -2,6 +2,7 @@
 	{
 		"version": "0.2",
 		"date": "17.10.2026",
+		"status": "public",
 		"changes": [
 			{"type": "add", "text": "Новая локация"},
 			{"type": "change", "text": "Переработан интерфейс диалогов"},
